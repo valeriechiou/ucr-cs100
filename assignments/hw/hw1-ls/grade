@@ -1,5 +1,5 @@
-0 / 100
+ 0    / 100  
 
-$ make
+    $ make
 make: *** No targets specified and no makefile found.  Stop.
 
